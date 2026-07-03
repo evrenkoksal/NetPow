@@ -1,0 +1,6 @@
+{
+  "name": "NetPow",
+  "description": "Sürükle-bırak yöntemli kabin içi cihaz, güç dağıtım ünitesi (PDU) ve ağ/güç kablolaması topoloji tasarım ve görselleştirme aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
